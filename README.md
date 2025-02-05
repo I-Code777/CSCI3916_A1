@@ -1,4 +1,11 @@
 # Assignment One
+# Name: Jessica Nguyen
+# SID: 109098574
+# CSCI 3916 H01
+
+## Notice
+This repository is a copy of the template provided for this assignment. A few changes have been made to meet the requirements of the assignment, but the majority of the repository remains the same.
+
 ## Purpose
 The purpose of this assignment is to setup your GitHub and Heroku (or Rendor) instances for future assignments
 

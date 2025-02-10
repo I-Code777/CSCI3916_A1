@@ -2,7 +2,7 @@
   "name": "echoapp",
   "version": "1.0.0",
   "description": "Echo App",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha --timeout 10000 --exit"
   },
